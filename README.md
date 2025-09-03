@@ -1,10 +1,8 @@
 # BambooHR MCP Server
 
 [![npm version](https://badge.fury.io/js/mcp-bamboohr.svg)](https://badge.fury.io/js/mcp-bamboohr)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Coverage: 100%](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](https://github.com/evrimalacan/mcp-bamboohr)
-[![Tests: 71 passing](https://img.shields.io/badge/Tests-71%20passing-brightgreen.svg)](https://github.com/evrimalacan/mcp-bamboohr)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://github.com/evrimalacan/mcp-bamboohr)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A **Model Context Protocol (MCP)** server that seamlessly connects AI assistants to BambooHR's API. Access employee data, time off information, company files, and more through natural language queries in Claude and other AI assistants.
 

@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Model Context Protocol server for BambooHR API integration",
   "main": "build/index.js",
+  "bin": {
+    "mcp-bamboohr": "build/index.js"
+  },
   "type": "module",
   "scripts": {
     "build": "tsc",
