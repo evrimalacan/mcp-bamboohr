@@ -55,7 +55,8 @@ Add the server to your Claude Desktop configuration with your credentials:
   "mcpServers": {
     "bamboohr": {
       "command": "npx",
-      "args": ["mcp-bamboohr"],
+      "args": ["mcp-bamboohr@latest"],
+      "type": "stdio",
       "env": {
         "BAMBOO_API_TOKEN": "your_actual_api_token",
         "BAMBOO_COMPANY_DOMAIN": "your_company_subdomain"
